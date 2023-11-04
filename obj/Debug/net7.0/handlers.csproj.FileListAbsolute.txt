@@ -1,0 +1,75 @@
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\handlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\handlers.AssemblyInfoInputs.cache
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\handlers.AssemblyInfo.cs
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\handlers.csproj.CoreCompileInputs.cache
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\handlers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kevin Alexis\Desktop\handlers\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kevin Alexis\Desktop\handlers\bin\Debug\net7.0\appsettings.json
+C:\Users\kevin Alexis\Desktop\handlers\bin\Debug\net7.0\handlers.exe
+C:\Users\kevin Alexis\Desktop\handlers\bin\Debug\net7.0\handlers.deps.json
+C:\Users\kevin Alexis\Desktop\handlers\bin\Debug\net7.0\handlers.runtimeconfig.json
+C:\Users\kevin Alexis\Desktop\handlers\bin\Debug\net7.0\handlers.dll
+C:\Users\kevin Alexis\Desktop\handlers\bin\Debug\net7.0\handlers.pdb
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\staticwebassets\msbuild.handlers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\staticwebassets\msbuild.build.handlers.props
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.handlers.props
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.handlers.props
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\scopedcss\bundle\handlers.styles.css
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\handlers.dll
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\refint\handlers.dll
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\handlers.pdb
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\handlers.genruntimeconfig.cache
+C:\Users\kevin Alexis\Desktop\handlers\obj\Debug\net7.0\ref\handlers.dll
+C:\Users\Usuario\Desktop\handlers\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\handlers\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\Desktop\handlers\bin\Debug\net7.0\handlers.exe
+C:\Users\Usuario\Desktop\handlers\bin\Debug\net7.0\handlers.deps.json
+C:\Users\Usuario\Desktop\handlers\bin\Debug\net7.0\handlers.runtimeconfig.json
+C:\Users\Usuario\Desktop\handlers\bin\Debug\net7.0\handlers.dll
+C:\Users\Usuario\Desktop\handlers\bin\Debug\net7.0\handlers.pdb
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\handlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\handlers.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\handlers.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\handlers.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\handlers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\staticwebassets\msbuild.handlers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\staticwebassets\msbuild.build.handlers.props
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.handlers.props
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.handlers.props
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\scopedcss\bundle\handlers.styles.css
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\handlers.dll
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\refint\handlers.dll
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\handlers.pdb
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\handlers.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\handlers\obj\Debug\net7.0\ref\handlers.dll
+C:\Users\Usuario\Desktop\handlers1.0\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\handlers1.0\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\Desktop\handlers1.0\bin\Debug\net7.0\handlers.exe
+C:\Users\Usuario\Desktop\handlers1.0\bin\Debug\net7.0\handlers.deps.json
+C:\Users\Usuario\Desktop\handlers1.0\bin\Debug\net7.0\handlers.runtimeconfig.json
+C:\Users\Usuario\Desktop\handlers1.0\bin\Debug\net7.0\handlers.dll
+C:\Users\Usuario\Desktop\handlers1.0\bin\Debug\net7.0\handlers.pdb
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\handlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\handlers.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\handlers.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\handlers.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\handlers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\staticwebassets\msbuild.handlers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\staticwebassets\msbuild.build.handlers.props
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.handlers.props
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.handlers.props
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\scopedcss\bundle\handlers.styles.css
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\handlers.dll
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\refint\handlers.dll
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\handlers.pdb
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\handlers.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\handlers1.0\obj\Debug\net7.0\ref\handlers.dll
